@@ -3,7 +3,7 @@
   min-width: 500px;
   width: 45%;
   text-align: left;
-  color: #FFFFFF;
+  color: #3b3b3b;
   font-weight: bold;
 }
 
@@ -29,11 +29,11 @@ input[type="text"] {
   float: right;
   width: 14%;
   height: 36px;
-  color: #fff;
+  color: #FFFFFF;
   font-size: 18px;
   border: none;
   cursor: pointer;
-  background-color: #FFFFFF;
+  background-color: #3b3b3b;
 }
 
 ul {
@@ -78,7 +78,7 @@ input[type="checkbox"] {
   left: 0;
   height: 2px;
   width: 100%;
-  background-color: #fff;
+  background-color: #FFFFFF;
   transform-origin: 100% 100%;
   bottom: 0;
 }
