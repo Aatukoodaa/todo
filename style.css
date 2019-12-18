@@ -87,4 +87,4 @@ input[type="checkbox"] {
   display: inline-block;
   line-height: 1em;
 }
-body {background-color: coral;}
+background: content-box radial-gradient(crimson, skyblue);
