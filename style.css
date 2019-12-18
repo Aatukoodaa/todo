@@ -1,9 +1,9 @@
 .container {
   margin: 0 auto;
-  min-width: 500px;
+  min-width: 100px;
   width: 45%;
   text-align: left;
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-weight: bold;
 }
 
