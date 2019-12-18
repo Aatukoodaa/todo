@@ -40,3 +40,4 @@ $(document).ready(function() {
 
     localStorage.setItem("listItems", $("#list-items").html());
   });
+});
