@@ -87,6 +87,4 @@ input[type="checkbox"] {
   display: inline-block;
   line-height: 1em;
 }
-body 
-{background-color: #FFFACD;
-}
+body {background-color: coral;}
