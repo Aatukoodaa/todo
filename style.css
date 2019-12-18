@@ -3,7 +3,7 @@
   min-width: 500px;
   width: 45%;
   text-align: left;
-  color: white;
+  color: #FFFFFF;
   font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ input[type="text"] {
   font-size: 18px;
   border: none;
   cursor: pointer;
-  background-color: white;
+  background-color: #FFFFFF;
 }
 
 ul {
@@ -87,4 +87,4 @@ input[type="checkbox"] {
   display: inline-block;
   line-height: 1em;
 }
-body {background-color: FFE4B5;}
+body {background-color: #FFFFFF;}
