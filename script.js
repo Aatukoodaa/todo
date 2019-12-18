@@ -45,13 +45,13 @@ $(document).ready(function() {
 });
 
 function run(){
-var password = prompt("Password Please");
+var password = prompt("Please enter the password");
 
 if(password != 'aatu'){
 document.body.innerHTML = '';
 document.body.innerHTML = 'Password Failed! Reload to Renter Password';
 }else{
-alert('Success');
+alert('Got it bro');
 }
 }
 run();
