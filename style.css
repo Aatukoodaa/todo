@@ -22,6 +22,7 @@ input[type="text"] {
   font-size: 18px;
   font-weight: normal;
   padding-left: 10px;
+  color: #FFDEAD
 }
 
 .add {
@@ -33,7 +34,7 @@ input[type="text"] {
   font-size: 18px;
   border: none;
   cursor: pointer;
-  background-color: #3b3b3b;
+  background-color: #FFDEAD;
 }
 
 ul {
