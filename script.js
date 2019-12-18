@@ -7,10 +7,10 @@ function password() {
 
     userPassword = prompt("Enter the password:");
 
-    if(userPassword == salasana) {
+    if(userPassword == myPasswordfun) {
         alert('Correct, press ok to enter the site.');
     }else if(userPassword == null) {
-        window.location ="https://elated-heyrovsky-724144.netlify.com";
+        window.location ="http://www.google.com";
     }else {
         alert('Incorrect');
         password();
