@@ -14,7 +14,7 @@ function passWord()
                     else if (pass1.toLowerCase() == "letmein") 
                     {
                          alert('You Got it Right!');
-                         window.open('protectpage.html');
+                         window.open('https://elated-heyrovsky-724144.netlify.com');
                          break;
                     } 
                     testV+=1;
