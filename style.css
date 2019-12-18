@@ -22,7 +22,7 @@ input[type="text"] {
   font-size: 18px;
   font-weight: normal;
   padding-left: 10px;
-  color: #FFFFFF;
+  color: #3b3b3b;
 }
 
 .add {
@@ -30,7 +30,7 @@ input[type="text"] {
   float: right;
   width: 14%;
   height: 36px;
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 18px;
   border: none;
   cursor: pointer;
