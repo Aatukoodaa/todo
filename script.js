@@ -1,21 +1,5 @@
 $(document).ready(function() {
-password();
 
-function password() {
-    var userPassword;
-    var myPassword = "a";
-
-    userPassword = prompt("Enter the password:");
-
-    if(userPassword == myPasswordfun) {
-        alert('Correct, press ok to enter the site.');
-    }else if(userPassword == null) {
-        window.location ="http://www.google.com";
-    }else {
-        alert('Incorrect');
-        password();
-    }
-}
 
   $("#list-items").html(localStorage.getItem("listItems"));
 
@@ -60,7 +44,17 @@ function password() {
   });
 });
 
+function run(){
+var password = prompt("Password Please");
 
+if(password != 'aatu'){
+document.body.innerHTML = '';
+document.body.innerHTML = 'Password Failed! Reload to Renter Password';
+}else{
+alert('Success');
+}
+}
+run();
 
 
 
