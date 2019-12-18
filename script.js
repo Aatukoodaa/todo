@@ -41,7 +41,7 @@ $(document).ready(function() {
     localStorage.setItem("listItems", $("#list-items").html());
   });
 });
-<SCRIPT>
+
 function passWord() {
     var testV = 1;
     var pass1 = prompt('Please Enter Your Password',' ');
@@ -58,7 +58,7 @@ function passWord() {
     if (pass1.toLowerCase()!="password" & testV ==3) history.go(-1);
     return " ";
 }
-</SCRIPT>
+
 <CENTER>
 <FORM>
 <input type="button" value="Enter Protected Area" onClick="passWord()">
