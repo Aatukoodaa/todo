@@ -18,9 +18,10 @@ input[type="text"] {
   outline: 0;
   width: 35%;
   height: 32px;
-  border: none;
+  border: #FFFFFF;
   font-size: 18px;
   font-weight: normal;
+  padding-left: 200px;
   
   color: #3b3b3b;
 }
