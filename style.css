@@ -16,7 +16,7 @@ form {
 
 input[type="text"] {
   outline: 0;
-  width: 55%;
+  width: 35%;
   height: 32px;
   border: none;
   font-size: 18px;
@@ -27,7 +27,7 @@ input[type="text"] {
 .add {
   outline: 0;
   float: right;
-  width: 34%;
+  width: 14%;
   height: 36px;
   color: #fff;
   font-size: 18px;
@@ -48,7 +48,7 @@ hr {
 }
 
 input[type="checkbox"] {
-  width: 30px;
+  width: 15px;
 }
 
 .remove {
@@ -87,4 +87,4 @@ input[type="checkbox"] {
   display: inline-block;
   line-height: 1em;
 }
-background: content-box radial-gradient(crimson, skyblue);
+
