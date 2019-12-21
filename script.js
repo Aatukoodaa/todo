@@ -51,7 +51,7 @@ if(password != 'aatu'){
 document.body.innerHTML = '';
 document.body.innerHTML = 'Password Failed! Reload to Renter Password';
 }else{
-alert('Got it bro');
+alert('Got it!');
 }
 }
 run();
@@ -83,4 +83,5 @@ anime.timeline({loop: true})
     easing: "easeOutExpo",
     delay: 1000
   });
+
 
